@@ -1,0 +1,74 @@
+
+body{
+    position: absolute;
+    top: 64px;
+    width: 360px;
+    height:576px;
+    margin: 0;
+    background-color:#203536 ;
+    //border:1px solid white;
+    overflow:hidden;
+}
+
+.button{
+    position: absolute;
+    top: 325px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.button1{
+    margin-bottom: 24px; ;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    width: 230px;
+    height: 44px;
+}
+li{
+    font-family:Acrom ;
+
+    word-spacing: 5px;
+    letter-spacing: 8px;
+    font-size: 16px;
+    padding: 13px;
+    text-align: center;
+    list-style-type:none;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+#img_studio{
+    position: relative;
+    top:131px;
+    display: block;
+    margin:auto;
+    width: 245px;
+    height: 70px;
+}
+#img_rocket{
+    position: absolute;
+    width: 360px;
+    height: 973px;
+    top: 482px;
+}
+#img_planet{
+    position: absolute;
+    left: 20px;
+    top: 89px;
+    width: 77px;
+    height: 77px;
+    z-index: -1;
+}
+#img_blackhole{
+    position: absolute;
+    top:-60px;
+    left: 160px;
+    width: 280px;
+    height: 280px;
+    z-index: -1;
+}
+#img_test{
+    position: absolute;
+    left: 0;
+    top:-64px;
+}

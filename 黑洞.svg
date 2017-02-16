@@ -1,0 +1,76 @@
+<svg id="黑洞" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="268" height="181" viewBox="0 0 268 181">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #e3c874;
+      }
+
+      .cls-1 {
+        opacity: 0.1;
+      }
+
+      .cls-3 {
+        fill: #203536;
+        opacity: 0.4;
+      }
+
+      .cls-4 {
+        fill: #e3c873;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="434" y="109" width="276" height="181" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="21.667" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#e3c873" flood-opacity="0.15"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="椭圆_31_拷贝" data-name="椭圆 31 拷贝" class="cls-1" cx="137.468" cy="89.609" r="64.062"/>
+  <circle id="椭圆_31_拷贝_2" data-name="椭圆 31 拷贝 2" class="cls-1" cx="137.485" cy="89.61" r="80.11"/>
+  <g id="INNER">
+    <circle id="椭圆_31" data-name="椭圆 31" class="cls-2" cx="137.468" cy="89.625" r="48.063"/>
+    <circle id="椭圆_32" data-name="椭圆 32" class="cls-3" cx="137.485" cy="89.609" r="44.046"/>
+    <circle id="椭圆_33" data-name="椭圆 33" class="cls-3" cx="137.468" cy="89.625" r="40.063"/>
+    <circle id="椭圆_34" data-name="椭圆 34" class="cls-3" cx="137.485" cy="89.609" r="36.046"/>
+    <circle id="椭圆_35" data-name="椭圆 35" class="cls-3" cx="137.485" cy="89.625" r="32.046"/>
+    <circle id="椭圆_36" data-name="椭圆 36" class="cls-3" cx="137.485" cy="89.609" r="28.046"/>
+    <circle id="椭圆_37" data-name="椭圆 37" class="cls-3" cx="137.469" cy="89.609" r="24.031"/>
+    <circle id="椭圆_38" data-name="椭圆 38" class="cls-3" cx="137.485" cy="89.625" r="20.015"/>
+  </g>
+  <path id="椭圆_39" data-name="椭圆 39" class="cls-4" d="M572.492,195.593c39.067,12.876,70.283,24.692,69.722,26.392s-32.685-7.361-71.752-20.237-70.282-24.693-69.722-26.392S533.426,182.716,572.492,195.593Z" transform="translate(-434 -109)"/>
+  <path id="椭圆_39_拷贝" data-name="椭圆 39 拷贝" class="cls-4" d="M572.492,195.593c39.067,12.876,70.283,24.692,69.722,26.392s-32.685-7.361-71.752-20.237-70.282-24.693-69.722-26.392S533.426,182.716,572.492,195.593Z" transform="translate(-434 -109)"/>
+</svg>
